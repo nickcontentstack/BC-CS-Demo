@@ -5,7 +5,7 @@
 
 About Contentstack: Contentstack is a headless CMS with an API-first approach that puts content at the centre. It is designed to simplify the process of publication by separating code from content.
 
-About this project: Next.js is a minimalistic framework for server-rendered React applications.This guide will help you create a starter website built on top of Next.js with minimal steps.
+About this project: Next.js is a minimalistic framework for server-rendered React applications.This guide will help you create a starter website built on top of Next.js with minimal steps. 
 
 
 
